@@ -1,0 +1,14 @@
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\bin\Debug\Diagram.dll.config
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\bin\Debug\Diagram.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\bin\Debug\Diagram.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\obj\Debug\Diagram.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Diagram\obj\Debug\Diagram.pdb
+C:\ModuleSecurity\Diagram\bin\Debug\Diagram.dll.config
+C:\ModuleSecurity\Diagram\bin\Debug\Diagram.dll
+C:\ModuleSecurity\Diagram\bin\Debug\Diagram.pdb
+C:\ModuleSecurity\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
+C:\ModuleSecurity\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\ModuleSecurity\Diagram\obj\Debug\Diagram.dll
+C:\ModuleSecurity\Diagram\obj\Debug\Diagram.pdb

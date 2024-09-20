@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC7C964-9763-48AF-A984-111962DF828E}|Diagram\\Diagram.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4BC7C964-9763-48AF-A984-111962DF828E}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\data\\implements\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|solutionrelative:data\\implements\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07B95EA-D379-47CB-98EC-E0B77590D415}|Entity\\Entity.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\entity\\model\\security\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07B95EA-D379-47CB-98EC-E0B77590D415}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\data\\implements\\moduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|solutionrelative:data\\implements\\moduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\data\\interface\\imoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|solutionrelative:data\\interface\\imoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07B95EA-D379-47CB-98EC-E0B77590D415}|Entity\\Entity.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07B95EA-D379-47CB-98EC-E0B77590D415}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\data\\implements\\viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|solutionrelative:data\\implements\\viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\data\\implements\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|solutionrelative:data\\implements\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|d:\\portatil\\documents\\trabajos-sena\\c#\\c-sharp\\modulesecurity\\source\\repos\\modulesecurity\\data\\implements\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CCDD2F-2146-4046-857F-D11DF72BB179}|Data\\Data.csproj|solutionrelative:data\\implements\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Diagram\\DBModel.edmx",
+              "RelativeDocumentMoniker": "Diagram\\DBModel.edmx",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Diagram\\DBModel.edmx [Diagram1]",
+              "RelativeToolTip": "Diagram\\DBModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-06T02:56:21.663Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Entity\\Model\\Security\\Module.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\Module.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Entity\\Model\\Security\\Module.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\Module.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:39:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IModuleData.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Interface\\IModuleData.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\IModuleData.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Interface\\IModuleData.cs",
+              "RelativeToolTip": "Data\\Interface\\IModuleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:53:51.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewData.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\ViewData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\ViewData.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\ViewData.cs",
+              "RelativeToolTip": "Data\\Implements\\ViewData.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:38:20.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\UserData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\UserData.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\UserData.cs",
+              "RelativeToolTip": "Data\\Implements\\UserData.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:31:44.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleData.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\RoleData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\RoleData.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\RoleData.cs",
+              "RelativeToolTip": "Data\\Implements\\RoleData.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:29:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\PersonData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\PersonData.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\PersonData.cs",
+              "RelativeToolTip": "Data\\Implements\\PersonData.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:14:39.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Entity\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Entity\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Entity\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwFUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:56:38.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleData.cs",
+              "DocumentMoniker": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\ModuleData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\ModuleData.cs",
+              "ToolTip": "D:\\Portatil\\Documents\\Trabajos-Sena\\C#\\C-Sharp\\ModuleSecurity\\source\\repos\\ModuleSecurity\\Data\\Implements\\ModuleData.cs",
+              "RelativeToolTip": "Data\\Implements\\ModuleData.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wEEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:55:50.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

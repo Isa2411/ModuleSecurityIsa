@@ -1,0 +1,42 @@
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.dll
+C:\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.pdb
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.dll
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.pdb
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\ModuleSecurity\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Entity\obj\Debug\net8.0\ref\Entity.dll

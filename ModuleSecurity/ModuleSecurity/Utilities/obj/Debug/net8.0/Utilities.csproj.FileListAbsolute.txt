@@ -1,0 +1,22 @@
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\ModuleSecurity\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\ModuleSecurity\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\ModuleSecurity\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\ModuleSecurity\Utilities\obj\Debug\net8.0\ref\Utilities.dll

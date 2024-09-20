@@ -1,0 +1,51 @@
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Business.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Data.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\ISABELA CORDOBA\source\repos\ModuleSecurity\Business\obj\Debug\net8.0\ref\Business.dll
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.dll
+C:\ModuleSecurity\Business\obj\Debug\net8.0\refint\Business.dll
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.pdb
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Business.deps.json
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Business.dll
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Business.pdb
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Data.dll
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Entity.dll
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Data.pdb
+C:\ModuleSecurity\Business\bin\Debug\net8.0\Entity.pdb
+C:\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\ModuleSecurity\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Business.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Data.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\ISABELA CORDOBA\Documents\Isabela Cordoba Gutierrez\Sena\CSharp\ModuleSecurityIsa\ModuleSecurity\ModuleSecurity\Business\obj\Debug\net8.0\ref\Business.dll
